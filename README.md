@@ -30,7 +30,7 @@ My goal is to master data analysis, data cleaning, and manipulation in Python us
 |-----|----------------|--------|--------|
 | 1 | Setup & Basics (What is Pandas, Importing, Reading/Writing Data) |topic1.py | ✅ |
 | 2 | Data Structures (Series, DataFrame) | topic2.py , topic2.1.py | ✅  |
-| 3 | Data Selection & Indexing | topic3.py | 🔜 |
+| 3 | Data Selection & Indexing | topic3.py , topic3.1.py |✅ |
 | 4 | Data Cleaning | topic4.py | 🔜 |
 | 5 | Data Exploration & Summary | topic5.py | 🔜 |
 | 6 | Filtering & Conditional Operations | topic6.py | 🔜 |
