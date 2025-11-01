@@ -7,11 +7,11 @@ data = {
     'Location': ['Ladakh' , 'Kargil' , 'Kashmir' , 'Zanskar'],
     'age':[13,15,14,16]
 }
-df = pd.DataFrame(data);
+df = pd.DataFrame(data)
 print(df) # look for output and notice the index for each row it oftenly called row number
 
-# selecting a single column use square bracket[column name] 
-ages = df['age']
+# selecting a single column use square bracket[[column name]] 
+ages = df[['age']]
 print(ages)
 print()
 #[[]] selecting multiple column [[column1 , column2 etc]]

@@ -5,6 +5,8 @@ data = {'Name': ['Alice', 'Bob', 'Charlie', 'David'],
         'City': ['New York', 'Los Angeles', 'Chicago', 'Houston'],
         'Score': [85, 90, 88, 92]}
 df = pd.DataFrame(data)
+print(df)
+print()
 # use for filtering the data like we try to know old age int the dataframe(table) like as below example
 # This asks "Is the value in the 'Age' column > 30?"
 mask = df['Age'] > 30

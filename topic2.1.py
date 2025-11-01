@@ -12,7 +12,7 @@ DataFrame: Creation
 The most common way to create a DataFrame is from a dictionary of lists, where each key becomes a column name and each list becomes the data for that column.
 DataFrame: Creation
 
-The most common way to create a DataFrame is from a dictionary of lists, where each key becomes a column name and each list becomes the data for that column.'''
+'''
 
 # Data for our DataFrame
 data = {
