@@ -33,8 +33,8 @@ My goal is to master data analysis, data cleaning, and manipulation in Python us
 | 3 | Data Selection & Indexing | topic3.py , topic3.1.py |✅ |
 | 4 | Data Cleaning | topic4.py topic4.1.py | ✅ |
 | 5 | Data Exploration & Summary | topic5.py | ✅ |
-| 6 | Filtering & Conditional Operations | topic6.py | 🔜 |
-| 7 | Combining & Merging | topic7.py | 🔜 |
+| 6 | Filtering & Conditional Operations | topic6.py | ✅|
+| 7 | Combining & Merging | topic7.py | ✅ |
 | 8 | Grouping & Aggregation | topic8.py | 🔜 |
 | 9 | Working with Dates & Times | topic9.py | 🔜 |
 | 10 | Advanced Operations | topic10.py | 🔜 |
