@@ -37,9 +37,9 @@ My goal is to master data analysis, data cleaning, and manipulation in Python us
 | 7 | Combining & Merging | topic7.py | ✅ |
 | 8 | Grouping & Aggregation | topic8.py | ✅|
 | 9 | Working with Dates & Times | topic9.py | ✅ |
-| 10 | Advanced Operations | topic10.py | 🔜 |
+| 10 | Advanced Operations | topic10.py |✅ |
 | 11 | Integration & Export | topic11.py | 🔜 |
-| 12+ | Mini Projects (Netflix, COVID-19, IPL, E-commerce) | projects/*.py |  ⏳|
+| 12+ | Mini Projects (Netflix, COVID-19, IPL, E-commerce) | projects/*.py |✅ |
 
 ✅ = Completed ⏳ = In Progress 🔜 = Upcoming
 
